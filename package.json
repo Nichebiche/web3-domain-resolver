@@ -45,7 +45,7 @@
     "ethers": "^5.6.9"
   },
   "dependencies": {
-    "@unstoppabledomains/resolution": "9.2.2",
+    "@unstoppabledomains/resolution": "8.5.0",
     "axios": "0.27.2",
     "lodash.clonedeep": "4.5.0",
     "lodash.indexof": "4.0.5",
